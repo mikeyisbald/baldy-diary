@@ -1,0 +1,52 @@
+h1{color:#f44242}
+img {
+    height: 200
+}
+h2{color:#aef2cb}
+
+#food {
+    color:black;
+    background-color: pink;
+    height:600px;
+    width:900px;
+}
+body {
+    background-color:#fdffd3;
+}
+h1 {
+    text-align: center;
+}
+p {
+    border: 2px outset;
+    padding: 8px;
+    margin: 8px;
+    width: 20%;
+}
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: purple;
+}
+
+/* mouse over link */
+a:hover {
+    color: black;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+#music{
+    color:black;
+    background-color:#abb5c6;
+    height:500px;
+    width:900px;
+}
+
+    
