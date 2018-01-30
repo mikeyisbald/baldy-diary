@@ -6,12 +6,9 @@ h2{color:#aef2cb}
 
 #food {
     color:black;
-    background-color: pink;
+    background: radial-gradient(black 20%, #3fff00 60%, #4c3100 20%);
     height:600px;
     width:900px;
-}
-body {
-    background-color:#fdffd3;
 }
 h1 {
     text-align: center;
@@ -48,5 +45,23 @@ a:active {
     height:500px;
     width:900px;
 }
+
+span {
+    font-weight: bold;
+}
+body{
+    background: radial-gradient(black 5%, green 15%, brown 60%);
+}
+@import url(https://fonts.googleapis.com/css?family=Bungee+Hairline);
+
+body{
+   font-family: 'Bungee Hairline',cursive;
+}
+body{
+    font-size: 13px;
+}
+
+
+
 
     
